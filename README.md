@@ -1,2 +1,7 @@
 # Space-Biology-Model-Zoo_-Python
 NASA Space Apps Challenge
+The project has curated a repository of machine learning models that can analyze genomics data from space biology experiments. These models encompasses a wide range of predictive and exploratory analyses. Our  project integrates data from European Nucleotide Archive (ENA), National Center for Biotechnology Information (NCBI), and Open Science for Life in Space to create a comprehensive dataset for space biology research. 
+
+Our project addresses the challenge of understanding how living organisms respond to space environments. It is accomplished by providing a centralized hub of machine learning models and analysis tools that can predict biological responses, identify genetic markers, and uncover molecular mechanisms which are specific to space conditions. It accelerates scientific progress, promotes collaboration, and aids in optimizing astronaut health and well-being during space missions. 
+
+The project contributes to the broader field of space exploration by enhancing our understanding of how organisms adapt to space conditions. The knowledge can inform the design of experiments, habitats, and health protocols for astronauts on long-duration space missions. It facilitates discoveries of novel genetic markers and biological pathways related to space adaptation. These applications can be applied in terrestrial to understand human health and disease. Even, it helps to understand the process of tumor which will increase when go to space or not!
